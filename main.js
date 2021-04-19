@@ -5,13 +5,13 @@ $(document).ready(function () {
 
   // REFERENCES /////////////////////////////////////
 
-  // identifico e registro in una var la classe dell'elemento che contiene il menu hamburger
+  // identifico e registro in una var il selettore che contiene il menu hamburger
   var menu = $(".hamburger-menu");
 
-  // identifico e registro in una var la classe dell'elemento che dovrebbe aprire il menu hamburger
+  // identifico e registro in una var il selettore che dovrebbe aprire il menu hamburger
   var openHamburgerMenu = $(".header-right > a");
 
-  // identifico e registro in una var la classe dell'elemento che dovrebbe chiudere il menu hamburger
+  // identifico e registro in una var il selettore che dovrebbe chiudere il menu hamburger
   var closeHamburgerMenu = $(".close");
 
   // END REFERENCES /////////////////////////////////////
@@ -39,13 +39,13 @@ $(document).ready(function () {
 
   //  // REFERENCES /////////////////////////////////////
 
-  // // identifico e registro in una var la classe dell'elemento che contiene il menu hamburger
+  // // identifico e registro in una var il selettore che contiene il menu hamburger
   // var menu = $(".hamburger-menu");
 
-  // // identifico e registro in una var la classe dell'elemento che dovrebbe aprire il menu hamburger
+  // // identifico e registro in una var lil selettore che dovrebbe aprire il menu hamburger
   // var openHamburgerMenu = $(".header-right > a");
 
-  // // identifico e registro in una var la classe dell'elemento che dovrebbe chiudere il menu hamburger
+  // // identifico e registro in una var il selettore che dovrebbe chiudere il menu hamburger
   // var closeHamburgerMenu = $(".close");
 
   // // END REFERENCES /////////////////////////////////////
